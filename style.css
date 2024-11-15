@@ -1,0 +1,50 @@
+*{
+    font-family: "Montserrat", sans-serif;
+}
+header{
+    background-color: #1465bb;
+    color:white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; 
+}
+header span {
+    color: white;
+}
+.nav-item a{
+    color: white;
+}
+.intro{
+    color:black;
+    background-color: white;
+    text-align: justify;
+}
+
+.agenda{
+    background-color: #1465bb;
+    color: white;
+    text-align: center;
+    width: 100%; /* Ajusta el porcentaje según el tamaño deseado */
+    margin: 0 auto; /* Centra el contenido */
+    padding: 20px; /* Añade espacio dentro del contenedor */
+    font-size:small;
+}
+.catorce{
+    text-align: center;
+}
+.bibliografia{
+    background-color: white;
+    color:black;
+    text-align: center;
+    width: 90%;
+    z-index: 1000; 
+    margin: 0 auto; /* Centra el contenido */
+    padding: 20px; /* Añade espacio dentro del contenedor */
+    font-size:x-small
+}
+.quince{
+    background-color: #1465bb;
+    color:white;
+}
